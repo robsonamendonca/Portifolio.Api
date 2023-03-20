@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/5396b6a8-a427-4bb7-a57e-199f22e9216e/resourceGroups/LearnAppContainerization2/providers/Microsoft.Web/sites/portifoloio-api-rob"
+}
