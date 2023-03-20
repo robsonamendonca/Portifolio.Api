@@ -35,7 +35,7 @@ Essa aplicação foi criada no evento De Ponta a Ponta, um evento prático focad
 #### Front-end
 - [Portifolio.Web](https://github.com/robsonamendonca/Portifolio.Web)
 #### Back-end
-- Dotnet & (Minimal API)
+- DotNet 7 (Minimal API)
 - Entity Framework Core 6
 - SQL Server
 - Swagger
@@ -62,4 +62,6 @@ Essa aplicação foi criada no evento De Ponta a Ponta, um evento prático focad
 
 ##### <p align="center"> <strong> < Feito por <a href="https://github.com/robsonamendonca"> @robsonamendonca  </a> /> </strong>  :wave:
 
+
+> Caso achem útil esta solução, peço por favor um ⭐️ nos repositórios apoiando. Fica também o convite para que vocês me sigam aqui no **GitHub**!
 
